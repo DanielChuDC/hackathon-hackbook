@@ -1,7 +1,6 @@
-# Azure Hackbook 👩‍💻👨‍💻
+# APAC Azure AI Hackathon Hackbook 👩‍💻👨‍💻
 
-**Azure Hackbook** is a go-to-guide for any developer to get to *learn and build scalable solutions at hackathons* on Azure. This hackbook is never finished! It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons.
-> Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
+This **HackBook** provides a go-to-guide for any AI developer to get to *learn and build scalable solutions* at **APAC Azure AI Hackathon** using Azure. If you have great content and/or resources, please don't hesitate to share via pull requests to [this repository](https://github.com/apacdevpmmresources/hackathon-hackbook) or [original HackBook repository](https://github.com/arkodyuti/hackathon-hackbook).
 
 ## Hacking with Microsoft Azure ☁️
 
@@ -12,12 +11,9 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 **If you're new to Azure, we have a host of learning options available to you.**
 
-### Getting Started with Azure ☁️
-1. Claim your **Azure Pass** [aka.ms/HN/passes](https://aka.ms/HN/passes) 
+### Before Getting Started with Azure ☁️
 
-> 👉 Note: Follow the redemption process guide for reference
-
-2. Deep dive through Azure Fundamentals: [aka.ms/HN/learnaz](https://aka.ms/HN/learnaz)
+1. Deep dive through Azure Fundamentals: [aka.ms/HN/learnaz](https://aka.ms/HN/learnaz)
 
 ### Explore Azure Services to build a Hack 📑
 [https://docs.microsoft.com](https://docs.microsoft.com/?WT.mc_id=-github-arsaha) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
