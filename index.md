@@ -41,17 +41,17 @@ There are 3 sets of AI services in Azure.
 
 > 🏂 [AI & ML Learning Paths for Azure Users](https://gist.github.com/csiebler/b29f37015f7cabb38a288856cb6c2bf3)
 
-> 👉 Sample 1: [How to Translate Speech in realtime on your browser](https://aka.ms/HN/AzS2T)
+> 👉 Sample 1: [How to Translate Speech in realtime on your browser](https://aka.ms/APAC/AzS2T)
 
-> 👉 Sample 2: [Wine-not-build a Bot](https://aka.ms/HN/AzBots)
+> 👉 Sample 2: [Wine-not-build a Bot](https://aka.ms/APAC/AzBots)
  
-> 👉 Sample 3: [Use Azure Cognitive Services to build a translator app hosted on Azure App Service](https://aka.ms/HN/AzAPS)
+> 👉 Sample 3: [Use Azure Cognitive Services to build a translator app hosted on Azure App Service](https://aka.ms/APAC/AzAPS)
 
-> 🖥️ Tutorial: [Introduction to Machine Learning](https://aka.ms/HN/ml) 
+> 🖥️ Tutorial: [Introduction to Machine Learning](https://aka.ms/APAC/ml) 
 
 > 📃 [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)
 
-> 🐍 [Azure for Python Developers](https://aka.ms/APAC/PyonAzure) 
+> 🐍 [Azure for Python Developers](https://aka.ms/APAC/PythonAzure) 
 
 > [Explore some MS Learn Content on AI & ML](https://aka.ms/APAC/AIML) 
 
@@ -63,34 +63,34 @@ There are 3 sets of AI services in Azure.
 
 Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
 
-> 👉 Sample 1: [aka.ms/HN/AZWebApps](https://aka.ms/HN/AZWebApps)
+> 👉 Sample 1: [aka.ms/APAC/AZWebApps](https://aka.ms/APAC/AZWebApps)
 
-> 👉 Sample 2: Learn to build a Blog using App Service [aka.ms/HN/BlogApp](https://aka.ms/HN/BlogApp)
+> 👉 Sample 2: Learn to build a Blog using App Service [aka.ms/APAC/BlogApp](https://aka.ms/APAC/BlogApp)
 
 > Learn more about Azure App Service: [aka.ms/APAC/appservice](https://aka.ms/APAC/appservice) 
 
 #### Azure Kubernetes Service (AKS)
 
-The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerised applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. 
+The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerized applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. 
 **[aka.ms/APAC/learnk8s](https://aka.ms/APAC/learnk8s)**
 
-> 👉 Sample 1: [Deploying .NET Web Apps to Azure](https://aka.ms/HN/RockPaperScissorsLizardSpock)
+> 👉 Sample 1: [Deploying .NET Web Apps to Azure](https://aka.ms/APAC/RockPaperScissorsLizardSpock)
 
-> 👉 Sample 2: [Azure Kubernetes Service - A Beginner's Guide.](https://aka.ms/HN/Learn-K8s)
+> 👉 Sample 2: [Azure Kubernetes Service - A Beginner's Guide.](https://aka.ms/APAC/Learn-K8s)
 
-> [Step-wise series to learn Kubernetes](https://aka.ms/HN/K8s-Series)
+> [Step-wise series to learn Kubernetes](https://aka.ms/APAC/K8s-Series)
 
 
 ### Database 💾
 
 **Azure Cosmos DB** is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
-**[Cosmod DB - Docs](https://docs.microsoft.com/azure/cosmos-db/?WT.mc_id=-github-arsaha)**
+**[Cosmos DB - Docs](https://docs.microsoft.com/azure/cosmos-db/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)**
 
-> [Getting Started with Cosmos DB on Azure](https://aka.ms/HN/Learn-CosmosDB)
+> [Getting Started with Cosmos DB on Azure](https://aka.ms/APAC/Learn-CosmosDB)
 
-> 👉 Sample 1: [Build an Attendee Detector](https://aka.ms/HN/AttendeeDetector)
+> 👉 Sample 1: [Build an Attendee Detector](https://aka.ms/APAC/AttendeeDetector)
 
-> 👉 [Explore Cosmos DB with Serverless](https://aka.ms/HN/CosmosDB-Serverless)
+> 👉 [Explore Cosmos DB with Serverless](https://aka.ms/APAC/CosmosDB-Serverless)
 
 > 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon#pivot=products)**
 
@@ -104,7 +104,7 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 Have a question while hacking on Azure, ask here [aka.ms/APAC/QnA](https://aka.ms/APAC/QnA)
 
 ## AWS to Azure services comparison ☁️☁️
-This section will help you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning a multicloud solution with Azure and AWS, or migrating to Azure, you can compare the IT capabilities of Azure and AWS services in all categories. Learn more [here](https://aka.ms/APAC/aws-azure-comparison)
+This section will help you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning a multi-cloud solution with Azure and AWS, or migrating to Azure, you can compare the IT capabilities of Azure and AWS services in all categories. Learn more [here](https://aka.ms/APAC/aws-azure-comparison)
 
 
 ## Sign-up for the Microsoft.Source Newsletter 📑
