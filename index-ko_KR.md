@@ -35,85 +35,87 @@ Azure에 있는 AI 서비스들은 *훌륭한 AI를 Azure로*, 그리고 *훌륭
 Azure에는 3가지 AI 서비스군이 있습니다. 
 1. **미리 빌드된 AI 기능**: 음성, 언어 이해, OCR, 비전 및 검색을 위한 인지 서비스 (Cognitive Services) API들은 간단히 사용 가능한 클라우드에서 호스팅되고 있는 함수들입니다.
 
-2. Conversational AI is now easy with the **Azure Bot Service**. It allows you to build and deploy chat and conversational applications with ease.
+2. **Azure 봇 서비스**와 함께 활용하기 쉬운 대화형 (Conversational) AI가 있습니다. 쉽게 채팅 및 대화를 필요로하는 어플리케이션을 만들고 배포할 수 있습니다.
 
-3. When you have to build a deeply custom AI model with your own data, **[Azure Machine Learning - aka.ms/APAC/AIonAzure](https://aka.ms/APAC/AIonAzure)** provides all you need for cloud scale algorithm and model development.
+3. 별도 데이터를 활용한 커스텀 AI 모델을 만들고자 한다면, **[Azure Machine Learning - aka.ms/APAC/AIonAzure](https://aka.ms/APAC/AIonAzure)**를 통해 클라우드 스케일에서 알고리즘 및 모델 개발에 필요한 모든 것을 사용하실 수 있습니다.
 
 
-> 🏂 [AI & ML Learning Paths for Azure Users](https://gist.github.com/csiebler/b29f37015f7cabb38a288856cb6c2bf3)
+> 🏂 [Azure 사용자를 위한 AI & ML 학습 경로 (영문)](https://gist.github.com/csiebler/b29f37015f7cabb38a288856cb6c2bf3)
 
-> 👉 Sample 1: [How to Translate Speech in realtime on your browser](https://aka.ms/APAC/AzS2T)
+> 👉 예제 1: [브라우저에서 실시간으로 음성 번역하는 방법 (영문)](https://aka.ms/APAC/AzS2T)
 
-> 👉 Sample 2: [Wine-not-build a Bot](https://aka.ms/APAC/AzBots)
+> 👉 예제 2: [와인에 대한 봇 만들기 (영문, 원 제목: Wine-not-build a Bot)](https://aka.ms/APAC/AzBots)
  
-> 👉 Sample 3: [Use Azure Cognitive Services to build a translator app hosted on Azure App Service](https://aka.ms/APAC/AzAPS)
+> 👉 예제 3: [Azure Cognitive Services를 사용한 번역 앱 만들기 & Azure App Service 호스팅 (영문)](https://aka.ms/APAC/AzAPS)
 
-> 🖥️ Tutorial: [Introduction to Machine Learning](https://aka.ms/APAC/ml) 
+> 🖥️ 튜토리얼: [머신 러닝 소개 (영문, 2018년 Developer! DeveloperDeveloper에서 발표된 영상)](https://aka.ms/APAC/ml) 
 
-> 📃 [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)
+> 📃 [Azure Machine Learning 디자이너를 위한 머신 러닝 알고리즘 참고 자료 시트](https://docs.microsoft.com/ko-kr/azure/machine-learning/algorithm-cheat-sheet?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)
 
-> 🐍 [Azure for Python Developers](https://aka.ms/APAC/PythonAzure) 
+> 🐍 [Python 개발자를 위한 Azure](https://aka.ms/APAC/PythonAzure) 
 
-> [Explore some MS Learn Content on AI & ML](https://aka.ms/APAC/AIML) 
+> [MS Learn에 있는 AI & ML 관련 내용을 찾아보세요](https://aka.ms/APAC/AIML) 
 
  
 
-### Compute 💻
+### 컴퓨트 (Compute) 💻
 
 #### Azure App Service
 
-Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
+Azure App Service를 사용하면 인프라를 관리하지 않고도 원하는 프로그래밍 언어를 사용하여 웹앱, 모바일 백엔드 및 RESTful API를 빌드하고 호스팅할 수 있습니다. 오토 스케일링 및 고가용성 제공, Windows와 Linux를 모두 지원하며 GitHub, Azure DevOps 또는 모든 Git 리포지토리에서 자동 배포를 지원합니다. 빠른 시작, 자습서 및 예제와 함께 Azure App Service를 사용하는 방법을 알아보십시오.
 
-> 👉 Sample 1: [aka.ms/APAC/AZWebApps](https://aka.ms/APAC/AZWebApps)
 
-> 👉 Sample 2: Learn to build a Blog using App Service [aka.ms/APAC/BlogApp](https://aka.ms/APAC/BlogApp)
+> 👉 예제 1: [.NET 웹앱을 Azure에 배포하기 (영문, 비디오)](https://aka.ms/APAC/AZWebApps)
 
-> Learn more about Azure App Service: [aka.ms/APAC/appservice](https://aka.ms/APAC/appservice) 
+> 👉 예제 2: 앱 서비스를 사용한 블로그를 만드는 방법 배우기 (영문) [aka.ms/APAC/BlogApp](https://aka.ms/APAC/BlogApp)
+
+> Azure App Service에 대해 자세히 알아보기: [aka.ms/APAC/appservice](https://aka.ms/APAC/appservice) 
 
 #### Azure Kubernetes Service (AKS)
 
-The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerized applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. 
-**[aka.ms/APAC/learnk8s](https://aka.ms/APAC/learnk8s)**
+완전히 관리되는 AKS (Azure Kubernetes Service)를 사용하면 컨테이너화된 응용 프로그램을 쉽게 배포하고 관리할 수 있습니다. 서버리스 Kubernetes, 통합 CI / CD (Continuous Integration & Continuous Delivery) 경험과 엔터프라이즈급 보안 및 거버넌스를 제공합니다. 개발 및 운영팀을 단일 플랫폼으로 통합하여 안심하고 애플리케이션을 신속하게 구축, 제공 및 확장할 수 있습니다.
 
-> 👉 Sample 1: [Deploying .NET Web Apps to Azure](https://aka.ms/APAC/RockPaperScissorsLizardSpock)
+**[Kubernetes 자세히 알아보기: aka.ms/APAC/learnk8s](https://aka.ms/APAC/learnk8s)**
 
-> 👉 Sample 2: [Azure Kubernetes Service - A Beginner's Guide.](https://aka.ms/APAC/Learn-K8s)
+> 👉 예제 1: [.NET 웹 앱을 Azure에 배포 (가위바위보 앱, GitHub)](https://aka.ms/APAC/RockPaperScissorsLizardSpock)
 
-> [Step-wise series to learn Kubernetes](https://aka.ms/APAC/K8s-Series)
+> 👉 예제 2: [Azure Kubernetes Service - 초보자를 위한 가이드 (영문)](https://aka.ms/APAC/Learn-K8s)
+
+> [Kubernetes 단계별로 알아보기 - 1. 기초, 배포 및 Minicube (영문)](https://aka.ms/APAC/K8s-Series)
 
 
-### Database 💾
+### 데이터베이스 💾
 
-**Azure Cosmos DB** is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
-**[Cosmos DB - Docs](https://docs.microsoft.com/azure/cosmos-db/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)**
+**Azure Cosmos DB**는 운영 및 분석 워크로드를 위한 Microsoft의 전 세계에 분산된 다중 모델 데이터베이스 서비스입니다. 처리량, 계산 및 스토리지를 자동으로 확장하며 멀티 마스터링 기능을 제공합니다.
+**[Cosmos DB - 문서](https://docs.microsoft.com/azure/cosmos-db/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)**
 
-> [Getting Started with Cosmos DB on Azure](https://aka.ms/APAC/Learn-CosmosDB)
+> [Azure에서 Cosmos DB 시작하기 (영문)](https://aka.ms/APAC/Learn-CosmosDB)
 
-> 👉 Sample 1: [Build an Attendee Detector](https://aka.ms/APAC/AttendeeDetector)
+> 👉 예제 1: [출석 확인 앱 만들기 (영문)](https://aka.ms/APAC/AttendeeDetector)
 
-> 👉 [Explore Cosmos DB with Serverless](https://aka.ms/APAC/CosmosDB-Serverless)
+> 👉 [서버리스와 함께 Cosmos DB 살펴보기 (영문)](https://aka.ms/APAC/CosmosDB-Serverless)
 
-> 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon#pivot=products)**
+> 👉  Azure 서비스를 확인해 봅시다 [링크](https://docs.microsoft.com/azure/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon#pivot=products)**
 
-## Explore Azure [Code Samples](https://aka.ms/APAC/HackOnAzure) 🎛
+## Azure 살펴보기 [코드 예제 (영문)](https://aka.ms/APAC/HackOnAzure) 🎛
 
 
 ## Microsoft Docs 📄
-[docs.microsoft.com](https://docs.microsoft.com/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+[docs.microsoft.com](https://docs.microsoft.com/?wt.mc_id=AID3010430_QSG_409504&ocid=AID3010430_QSG_409504&utm_medium=Owned%20%26%20Operated&utm_campaign=FY20_Virtual%20Hackathon)는 최종 사용자, 개발자 및 IT 전문가를 위한 Microsoft 설명서 홈페이지입니다. 빠른 시작, 자습서, API 참조 및 코드 예제를 확인하십시오.
 
-## Ask the developer 😎
-Have a question while hacking on Azure, ask here [aka.ms/APAC/QnA](https://aka.ms/APAC/QnA)
+## 개발자에게 물어보세요 (영문) 😎
+Azure를 살펴보면서 궁금한 점이 있으면, 여기에 물어보세요: [aka.ms/APAC/QnA](https://aka.ms/APAC/QnA).
 
-## AWS to Azure services comparison ☁️☁️
-This section will help you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning a multi-cloud solution with Azure and AWS, or migrating to Azure, you can compare the IT capabilities of Azure and AWS services in all categories. Learn more [here](https://aka.ms/APAC/aws-azure-comparison)
+## AWS와 Azure 서비스 비교 ☁️☁️
+이 섹션에서는 Microsoft Azure 서비스가 AWS와 어떻게 다른지 이해하는 데 도움이 됩니다. Azure 및 AWS를 사용하여 멀티 클라우드 솔루션을 계획하거나 Azure로 마이그레이션 등을 고려하는 경우, 모든 분류 기준에서 Azure 및 AWS 서비스의 IT 기능을 비교하실 수 있을 것입니다. 자세한 내용은 [여기](https://aka.ms/APAC/aws-azure-comparison)를 확인하세요.
 
 
-## Sign-up for the Microsoft.Source Newsletter 📑
-Receive a regular digest of relevant technical content, events and training [aka.ms/APAC/microsoft.source](https://aka.ms/APAC/microsoft.source) 
+## Microsoft.Source 뉴스레터에 가입하세요 📑
+큐레이팅된 월간 개발자 커뮤니티 뉴스레터인 Microsoft.Source를 통해 최신 기사, 설명서 및 이벤트 소식을 받아 보세요. [aka.ms/APAC/microsoft.source](https://aka.ms/APAC/microsoft.source) 
 
-## Explore Microsoft Certifications 💯
-> 1. [Exam AZ-900: Microsoft Azure Fundamentals](https://aka.ms/APAC/Az900) 🎓
-> 2. [Exam AZ-203: Developing Solutions for Microsoft Azure](https://aka.ms/APAC/Az203) 🎓
+## Microsoft 인증 시험을 확인해 보세요 💯
+> 1. [시험 AZ-900: Microsoft Azure Fundamentals](https://aka.ms/APAC/Az900) 🎓
+> 2. [시험 AZ-203: Developing Solutions for Microsoft Azure](https://aka.ms/APAC/Az203) 🎓
 
 
 
